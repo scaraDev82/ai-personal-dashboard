@@ -1,5 +1,7 @@
 # Command Center | Personal Link Dashboard
 
+![Dashboard Screenshot](screenshot.png)
+
 A high-density, high-contrast personal dashboard designed for efficiency and a modern "technical command center" aesthetic.
 
 > [!NOTE]

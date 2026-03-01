@@ -296,7 +296,6 @@ function App() {
       <header className="dashboard-header">
         <div className="title-group">
           <h1>COMMAND CENTER</h1>
-          <div className="status-line">SYSTEM STATUS: OPERATIONAL | PORT: 3001 | {new Date().toLocaleDateString()}</div>
         </div>
         <div style={{ display: 'flex', gap: '0.5rem' }}>
           <button className="btn-primary" onClick={() => { setPanelForm({ name: '' }); setIsPanelModalOpen(true); }}>[+] PANEL</button>
